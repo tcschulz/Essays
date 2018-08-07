@@ -78,7 +78,7 @@ Because I haven't implemented anything remotely close to an agile life cycle in 
 
 Other consequences I have experienced from my lack of agile/extreme programming habits include decreasing performance to the point of consistent failure, deteriorating trust between my customers and I, noticeable social awkwardness in professional settings, and a really mediocre essay detailing differences between programming languages for a particular customer. The most substantial consequence was the staff turnover from my teammates' increased hatred for the program. In sum, the following figure should come up under a Google search for "Tanya Schulz".
 
-![check online](https://github.com/tcschulz/Essays/blob/master/trainwreck.png)
+![check online](https://github.com/tcschulz/Essays/blob/master/trainwreck.png "Depiction of agile planning's importance of iteration and change <sup>3</sup>")
 
 
 ## Sources
